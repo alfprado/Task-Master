@@ -1,0 +1,15 @@
+Setting Up Our Environment
+
+1. Install Python 3.6+ and PIP
+
+2. Install virtualenv
+
+3. Create our project directory
+
+4. Create virtual Environment
+
+virtualenv <nome>
+
+5. Install required packages
+
+pip3 install flask flask-sqlalchemy
